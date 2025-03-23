@@ -2,5 +2,13 @@
 name = "dinosaur"
 version = "0.1.0"
 edition = "2024"
+description = "A DNS server and client library"
+keywords = [
+  "dns",
+  "networking",
+  "server",
+  "client",
+  "library"
+]
 
 [dependencies]
